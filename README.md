@@ -4,7 +4,7 @@
 
 ### please follow along
 <ul>
-<li><a href="https://www.youtube.com/watch?v=8J7ZcT7zQvY">Youtube video</a>
+<li><a href="https://www.youtube.com/watch?v=nc2f0edkr9U&list=PL2he99VbfSBY8vnsht8kHN0yTrAg97wDs">Youtube Series</a>
 </li>
 <li><a href="https://bootcamp.laravel.com/">Laravel bootcamp</a>
 </li>
